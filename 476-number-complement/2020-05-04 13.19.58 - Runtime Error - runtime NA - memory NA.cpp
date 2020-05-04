@@ -1,0 +1,28 @@
+class Solution {
+public:
+    void binary_rep(int num,vector<char> &binarynum) {
+        int count=0;
+        while (num != 0) {
+            if (num%2 == 0) {
+                binarynum.push_back('0');
+            } else {
+                binarynum.push_back('1');
+            }
+            num = num/2;
+        }
+    }
+    
+    int findComplement(int num) {
+        vector<char> binarynum;
+        binary_rep(num,binarynum);
+        int mult = 1;
+        int result;
+        for (int i=0;i<binarynum.size();++i) {
+            if (binarynum[i] == '0') {
+                result += mult;
+            }
+            mult *= 2;
+        }
+        return result;
+    }
+};
