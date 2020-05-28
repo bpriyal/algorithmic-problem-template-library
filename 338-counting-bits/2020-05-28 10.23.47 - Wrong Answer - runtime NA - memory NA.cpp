@@ -1,0 +1,16 @@
+class Solution {
+public:
+    vector<int> countBits(int num) {
+        vector<int> result;
+        result.push_back(0);
+        result.push_back(1);
+        for (int i =2;i<=num;i++) {
+            if (i%2 == 0) {
+                result.push_back(result[i/2]);
+            } else {
+                result.push_back(result[i-1] + 1);
+            }
+        }
+        return result;
+    }
+};
