@@ -1,0 +1,46 @@
+class Solution {
+    int rows,cols;
+    int cache[100][100][1000] = {0};
+    bool util(const vector<vector<int>>& dungeon,int m,int n,int health) {
+        //printf("m:%d,n:%d,health:%d\n",m,n,health);
+        if (m >= rows || n >= cols) return false;
+        if (health <= 0) return false;
+        if (m == rows-1 && n == cols-1) {
+            //cout<<"**"<<endl;
+            return true;
+        }
+        if (cache[m][n][health] != 0) {
+            return cache[m][n][health];
+        }
+        if (util(dungeon,m,n+1,health + dungeon[m][n+1]) || util(dungeon,m+1,n,health + dungeon[m+1][n])) {
+            cache[m][n][health] = 1;
+            return true;
+        }
+        cache[m][n][health] = 2;
+        return false;
+    }
+    
+public:
+    int calculateMinimumHP(vector<vector<int>>& dungeon) {
+        rows = dungeon.size();
+        cols = dungeon[0].size();
+        int h = 0;
+        for (int i = 0;i<rows;++i) {
+            for(int j = 0;j<cols;++j) {
+                h += dungeon[i][j] > 0 ? 0:dungeon[i][j];
+            }
+        }
+        int l = 1;
+        h = -h;
+        while(l<=h) {
+            int mid = l + (h-l)/2;
+            //cout<<"Mid:"<<mid<<endl;
+            if (util(dungeon,0,0,mid+dungeon[0][0])) {
+                h = mid - 1;
+            } else {
+                l = mid + 1;
+            }
+        }
+        return l;
+    }
+};
