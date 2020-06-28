@@ -1,0 +1,14 @@
+class Solution {
+public:
+    bool canArrange(vector<int>& arr, int k) {
+        vector<int> cache(k);
+        for(auto &x:arr){
+            ++cache[(x%k+k)%k];
+        }
+        for(auto &x:arr) {
+            --cache[(k-((x%k+k)%k))%k];
+            if (cache[(k-((x%k+k)%k))%k] < 0) return false;          
+        }
+        return true;
+    }
+};
