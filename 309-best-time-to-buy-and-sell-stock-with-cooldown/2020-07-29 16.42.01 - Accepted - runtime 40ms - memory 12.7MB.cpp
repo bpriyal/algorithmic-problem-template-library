@@ -1,0 +1,28 @@
+class Solution {
+    int size;
+    vector<vector<int>> dp;
+    int util(int buyPrice,int result,const vector<int>& prices,int i) {
+        printf("%d %d %d\n",buyPrice,result,i);
+        if (i >= size) return 0;
+        bool buy = buyPrice != -1;
+        if (dp[i][buy] != -1) {
+            cout<<"**"<<dp[i][buy]<<endl;
+            return dp[i][buy];
+        }
+        if (buy) { /* sell or not sell*/
+           //cout<<result<<" "<<i<<endl;
+            return dp[i][buy] = max(prices[i]+util(-1,result+(prices[i]-buyPrice),prices,i+2),util(buyPrice,result,prices,i+1));
+        } else { /* buy or not buy */
+            return dp[i][buy] = max(-prices[i]+util(prices[i],result,prices,i+1),util(-1,result,prices,i+1));
+        }
+    }
+public:
+    int maxProfit(vector<int>& prices) {
+        size = prices.size();
+        dp.resize(size);
+        for(int i = 0;i<size;++i) {
+            dp[i].resize(2,-1);
+        }
+        return util(-1,0,prices,0);
+    }
+};
