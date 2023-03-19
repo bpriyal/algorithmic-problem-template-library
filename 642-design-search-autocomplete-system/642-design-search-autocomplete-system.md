@@ -1,0 +1,1 @@
+<h1>642 - Design Search Autocomplete System</h1><h2>Difficulty: Hard - <a href="https://leetcode.com/problems/design-search-autocomplete-system/">design-search-autocomplete-system</a></h2>None
