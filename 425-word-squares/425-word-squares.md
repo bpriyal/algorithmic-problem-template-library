@@ -1,0 +1,1 @@
+<h1>425 - Word Squares</h1><h2>Difficulty: Hard - <a href="https://leetcode.com/problems/word-squares/">word-squares</a></h2>None
