@@ -1,0 +1,40 @@
+class Solution {
+    public int minimumRounds(int[] tasks) {
+        int totalGroups = 0;
+        Map<Integer,Integer> difficultyToFreq = new HashMap<>();
+
+        for (int i : tasks) {
+            difficultyToFreq.put (i, difficultyToFreq.getOrDefault(i,0) + 1);
+        }
+
+        for (int val : difficultyToFreq.values()) {
+            int groups = val/3;     
+            int mod = val % 3;
+            if (mod == 1) {
+                if (val % 2 == 0) {
+                    groups -= val/3;
+                    groups += val/2;
+                }
+                else if (groups <= 1) { //val%3 and val%2 = 1
+                    return -1;
+                }
+                //else return -1;
+            } else if (mod == 2) {
+                ++groups;
+            }
+            totalGroups += groups;
+        }
+        return totalGroups;
+    }
+}
+
+/*
+
+/3 --> no of groups in 3 = total group +
+
+%3 == 
+    0 --> grouped into 3
+    1 --> cant be grouped retrun -1
+    2 --> can be grouped to 2 (+1 group)
+
+*/
