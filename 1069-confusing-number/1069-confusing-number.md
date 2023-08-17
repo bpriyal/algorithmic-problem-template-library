@@ -1,0 +1,1 @@
+<h1>1069 - Confusing Number</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/confusing-number/">confusing-number</a></h2>None
