@@ -1,0 +1,1 @@
+<h1>1051 - Shortest Way to Form String</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/shortest-way-to-form-string/">shortest-way-to-form-string</a></h2>None
