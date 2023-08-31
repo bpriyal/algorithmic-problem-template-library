@@ -1,0 +1,1 @@
+<h1>1123 - Single-Row Keyboard</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/single-row-keyboard/">single-row-keyboard</a></h2>None
