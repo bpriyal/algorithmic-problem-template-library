@@ -1,0 +1,1 @@
+<h1>422 - Valid Word Square</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/valid-word-square/">valid-word-square</a></h2>None
