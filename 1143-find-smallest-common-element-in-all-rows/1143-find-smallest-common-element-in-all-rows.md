@@ -1,0 +1,1 @@
+<h1>1143 - Find Smallest Common Element in All Rows</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/find-smallest-common-element-in-all-rows/">find-smallest-common-element-in-all-rows</a></h2>None
