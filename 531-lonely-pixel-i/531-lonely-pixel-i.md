@@ -1,0 +1,1 @@
+<h1>531 - Lonely Pixel I</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/lonely-pixel-i/">lonely-pixel-i</a></h2>None
