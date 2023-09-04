@@ -1,0 +1,1 @@
+<h1>723 - Candy Crush</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/candy-crush/">candy-crush</a></h2>None
