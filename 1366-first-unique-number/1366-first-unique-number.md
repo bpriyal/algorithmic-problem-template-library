@@ -1,0 +1,1 @@
+<h1>1366 - First Unique Number</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/first-unique-number/">first-unique-number</a></h2>None
