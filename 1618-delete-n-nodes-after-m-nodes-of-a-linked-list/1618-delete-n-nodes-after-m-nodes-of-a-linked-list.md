@@ -1,0 +1,1 @@
+<h1>1618 - Delete N Nodes After M Nodes of a Linked List</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/">delete-n-nodes-after-m-nodes-of-a-linked-list</a></h2>None
