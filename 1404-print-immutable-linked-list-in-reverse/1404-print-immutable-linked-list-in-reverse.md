@@ -1,0 +1,1 @@
+<h1>1404 - Print Immutable Linked List in Reverse</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/print-immutable-linked-list-in-reverse/">print-immutable-linked-list-in-reverse</a></h2>None
