@@ -1,0 +1,1 @@
+<h1>298 - Binary Tree Longest Consecutive Sequence</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/">binary-tree-longest-consecutive-sequence</a></h2>None
