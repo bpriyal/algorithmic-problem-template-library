@@ -1,0 +1,1 @@
+<h1>1665 - Diameter of N-Ary Tree</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/diameter-of-n-ary-tree/">diameter-of-n-ary-tree</a></h2>None
