@@ -1,0 +1,1 @@
+<h1>1650 - Find Root of N-Ary Tree</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/find-root-of-n-ary-tree/">find-root-of-n-ary-tree</a></h2>None
