@@ -1,0 +1,1 @@
+<h1>582 - Kill Process</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/kill-process/">kill-process</a></h2>None
