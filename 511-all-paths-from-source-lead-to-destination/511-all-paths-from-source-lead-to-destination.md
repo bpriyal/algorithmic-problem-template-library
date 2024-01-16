@@ -1,0 +1,1 @@
+<h1>511 - All Paths from Source Lead to Destination</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/all-paths-from-source-lead-to-destination/">all-paths-from-source-lead-to-destination</a></h2>None
