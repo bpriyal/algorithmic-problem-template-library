@@ -1,0 +1,1 @@
+<h1>1271 - Web Crawler</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/web-crawler/">web-crawler</a></h2>None
