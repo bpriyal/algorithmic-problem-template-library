@@ -1,0 +1,1 @@
+<h1>694 - Number of Distinct Islands</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/number-of-distinct-islands/">number-of-distinct-islands</a></h2>None
