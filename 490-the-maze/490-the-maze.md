@@ -1,0 +1,1 @@
+<h1>490 - The Maze</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/the-maze/">the-maze</a></h2>None
