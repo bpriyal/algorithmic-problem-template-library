@@ -1,0 +1,1 @@
+<h1>286 - Walls and Gates</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/walls-and-gates/">walls-and-gates</a></h2>None
