@@ -1,0 +1,1 @@
+<h1>1142 - Minimum Knight Moves</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/minimum-knight-moves/">minimum-knight-moves</a></h2>None
