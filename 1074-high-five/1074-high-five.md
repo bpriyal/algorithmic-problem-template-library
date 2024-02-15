@@ -1,0 +1,1 @@
+<h1>1074 - High Five</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/high-five/">high-five</a></h2>None
