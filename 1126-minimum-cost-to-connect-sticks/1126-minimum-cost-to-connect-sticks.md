@@ -1,0 +1,1 @@
+<h1>1126 - Minimum Cost to Connect Sticks</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/minimum-cost-to-connect-sticks/">minimum-cost-to-connect-sticks</a></h2>None
