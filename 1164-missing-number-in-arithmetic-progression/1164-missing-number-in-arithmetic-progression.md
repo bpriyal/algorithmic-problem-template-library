@@ -1,0 +1,1 @@
+<h1>1164 - Missing Number In Arithmetic Progression</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/missing-number-in-arithmetic-progression/">missing-number-in-arithmetic-progression</a></h2>None
