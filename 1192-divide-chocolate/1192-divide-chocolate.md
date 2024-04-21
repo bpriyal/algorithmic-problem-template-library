@@ -1,0 +1,1 @@
+<h1>1192 - Divide Chocolate</h1><h2>Difficulty: Hard - <a href="https://leetcode.com/problems/divide-chocolate/">divide-chocolate</a></h2>None
