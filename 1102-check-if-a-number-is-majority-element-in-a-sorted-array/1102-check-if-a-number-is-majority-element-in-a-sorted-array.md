@@ -1,0 +1,1 @@
+<h1>1102 - Check If a Number Is Majority Element in a Sorted Array</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/">check-if-a-number-is-majority-element-in-a-sorted-array</a></h2>None
