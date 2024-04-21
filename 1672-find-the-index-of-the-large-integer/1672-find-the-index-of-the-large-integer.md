@@ -1,0 +1,1 @@
+<h1>1672 - Find the Index of the Large Integer</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/find-the-index-of-the-large-integer/">find-the-index-of-the-large-integer</a></h2>None
