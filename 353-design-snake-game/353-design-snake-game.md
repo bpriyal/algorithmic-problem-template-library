@@ -1,0 +1,1 @@
+<h1>353 - Design Snake Game</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/design-snake-game/">design-snake-game</a></h2>None
