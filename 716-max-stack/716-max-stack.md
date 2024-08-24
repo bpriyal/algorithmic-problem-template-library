@@ -1,0 +1,1 @@
+<h1>716 - Max Stack</h1><h2>Difficulty: Hard - <a href="https://leetcode.com/problems/max-stack/">max-stack</a></h2>None
