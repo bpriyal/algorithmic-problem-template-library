@@ -1,0 +1,1 @@
+<h1>1176 - Design A Leaderboard</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/design-a-leaderboard/">design-a-leaderboard</a></h2>None
