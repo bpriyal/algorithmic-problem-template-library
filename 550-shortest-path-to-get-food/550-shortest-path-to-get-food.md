@@ -1,0 +1,1 @@
+<h1>550 - Shortest Path to Get Food</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/shortest-path-to-get-food/">shortest-path-to-get-food</a></h2>None
