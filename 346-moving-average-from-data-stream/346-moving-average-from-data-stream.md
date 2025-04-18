@@ -1,0 +1,1 @@
+<h1>346 - Moving Average from Data Stream</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/moving-average-from-data-stream/">moving-average-from-data-stream</a></h2>None
