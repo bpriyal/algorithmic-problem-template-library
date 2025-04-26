@@ -1,0 +1,1 @@
+<h1>536 - Construct Binary Tree from String</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/construct-binary-tree-from-string/">construct-binary-tree-from-string</a></h2>None
