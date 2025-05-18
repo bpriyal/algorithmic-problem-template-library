@@ -1,0 +1,1 @@
+<h1>2045 - Cutting Ribbons</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/cutting-ribbons/">cutting-ribbons</a></h2>None
