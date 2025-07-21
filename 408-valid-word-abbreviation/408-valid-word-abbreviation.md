@@ -1,0 +1,1 @@
+<h1>408 - Valid Word Abbreviation</h1><h2>Difficulty: Easy - <a href="https://leetcode.com/problems/valid-word-abbreviation/">valid-word-abbreviation</a></h2>None
