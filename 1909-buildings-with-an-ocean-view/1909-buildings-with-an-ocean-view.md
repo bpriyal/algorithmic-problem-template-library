@@ -1,0 +1,1 @@
+<h1>1909 - Buildings With an Ocean View</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/buildings-with-an-ocean-view/">buildings-with-an-ocean-view</a></h2>None
