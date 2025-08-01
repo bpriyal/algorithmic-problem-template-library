@@ -1,0 +1,1 @@
+<h1>1059 - Missing Element in Sorted Array</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/missing-element-in-sorted-array/">missing-element-in-sorted-array</a></h2>None
