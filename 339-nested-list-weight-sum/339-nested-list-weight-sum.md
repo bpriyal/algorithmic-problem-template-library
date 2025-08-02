@@ -1,0 +1,1 @@
+<h1>339 - Nested List Weight Sum</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/nested-list-weight-sum/">nested-list-weight-sum</a></h2>None
