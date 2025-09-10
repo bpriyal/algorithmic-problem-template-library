@@ -1,0 +1,1 @@
+<h1>1713 - Dot Product of Two Sparse Vectors</h1><h2>Difficulty: Medium - <a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors/">dot-product-of-two-sparse-vectors</a></h2>None
